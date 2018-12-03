@@ -103,3 +103,6 @@ flasktutorenv/
 
 # mypy
 .mypy_cache/
+
+#sqlit database development
+app.db
